@@ -1,1 +1,2 @@
 https://jhooq.com/aws-kubernetes-jenkins-pipeline/#10-create-eks-cluster-using-eksctl
+https://www.youtube.com/watch?v=ENNBdmNn4r0
