@@ -1,0 +1,1 @@
+https://jhooq.com/aws-kubernetes-jenkins-pipeline/#10-create-eks-cluster-using-eksctl
