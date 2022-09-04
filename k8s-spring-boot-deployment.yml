@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: justinfo/spring-deploy:latest
+          image:  justinfo/spring-deploy:latest
           ports:
             - containerPort: 8080
           env:
