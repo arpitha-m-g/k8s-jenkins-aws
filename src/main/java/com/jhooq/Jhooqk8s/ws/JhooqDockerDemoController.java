@@ -8,6 +8,6 @@ public class JhooqDockerDemoController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Congratulation on your first CI CD build !! Well done";
+        return "Well done !!! successfully build 2nd version ";
     }
 }
