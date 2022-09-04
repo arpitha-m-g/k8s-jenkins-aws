@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image:  justinfo/spring-deploy:latest
+          image:  520890307902.dkr.ecr.us-east-2.amazonaws.com/pipeline-build:latest
           ports:
             - containerPort: 8080
           env:
