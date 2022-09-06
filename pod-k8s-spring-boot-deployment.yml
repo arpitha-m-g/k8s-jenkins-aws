@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image:   justinfo/kube-deploy:latestVersion
+          image:   justinfo/kube-deploy:versionlatestVersion
           ports:
             - containerPort: 8080
           env:
